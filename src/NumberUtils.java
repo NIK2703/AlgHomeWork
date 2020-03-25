@@ -9,11 +9,11 @@ public class NumberUtils {
         return sum;
     }
 
-    public static int getNumericSumRecurrent (int number) {
+    public static long getNumericSumRecurrent (long number) {
         return getNumericSumRecurrent(number, 0);
     }
 
-    private static int getNumericSumRecurrent (int number, int sum) {
+    private static long getNumericSumRecurrent (long number, long sum) {
         if (number != 0) {
             return getNumericSumRecurrent(number / 10, sum + number % 10);
         }

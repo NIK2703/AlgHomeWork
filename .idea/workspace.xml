@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6f46473-f08b-4741-8649-389fc7f3f9b2" name="Default Changelist" comment="" />
+    <list default="true" id="b6f46473-f08b-4741-8649-389fc7f3f9b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestNumberSumAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestNumberSumAlgorithms.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZQaXE8TMjy96UYdHfk8OVLoQRH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +32,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -37,38 +50,84 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f46473-f08b-4741-8649-389fc7f3f9b2" name="Default Changelist" comment="" />
+      <created>1585065583309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585065583309</updated>
+    </task>
+    <servers />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="280" key="GridCell.Tab.0.bottom" timestamp="1584775453110">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state x="524" y="265" width="310" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585065603646">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state x="524" y="265" width="310" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.744@0.0.1366.744" timestamp="1585065603646" />
+    <state x="466" y="131" width="426" height="484" key="FileChooserDialogImpl" timestamp="1585068950766">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="466" y="131" width="426" height="484" key="FileChooserDialogImpl/0.0.1366.744@0.0.1366.744" timestamp="1585068950766" />
+    <state width="1343" height="252" key="GridCell.Tab.0.bottom" timestamp="1585110198864">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1343" height="252" key="GridCell.Tab.0.bottom/0.0.1366.744@0.0.1366.744" timestamp="1585110198864" />
     <state width="1897" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1056@0.0.1920.1056" timestamp="1584775453110" />
-    <state width="1897" height="280" key="GridCell.Tab.0.center" timestamp="1584775453110">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="252" key="GridCell.Tab.0.center" timestamp="1585110198863">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="252" key="GridCell.Tab.0.center/0.0.1366.744@0.0.1366.744" timestamp="1585110198863" />
     <state width="1897" height="280" key="GridCell.Tab.0.center/0.0.1920.1056@0.0.1920.1056" timestamp="1584775453110" />
-    <state width="1897" height="280" key="GridCell.Tab.0.left" timestamp="1584775453109">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="252" key="GridCell.Tab.0.left" timestamp="1585110198861">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="252" key="GridCell.Tab.0.left/0.0.1366.744@0.0.1366.744" timestamp="1585110198861" />
     <state width="1897" height="280" key="GridCell.Tab.0.left/0.0.1920.1056@0.0.1920.1056" timestamp="1584775453109" />
-    <state width="1897" height="280" key="GridCell.Tab.0.right" timestamp="1584775453110">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="252" key="GridCell.Tab.0.right" timestamp="1585110198863">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="252" key="GridCell.Tab.0.right/0.0.1366.744@0.0.1366.744" timestamp="1585110198863" />
     <state width="1897" height="280" key="GridCell.Tab.0.right/0.0.1920.1056@0.0.1920.1056" timestamp="1584775453110" />
-    <state width="1897" height="345" key="GridCell.Tab.1.bottom" timestamp="1584775063547">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="221" key="GridCell.Tab.1.bottom" timestamp="1585110027132">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="221" key="GridCell.Tab.1.bottom/0.0.1366.744@0.0.1366.744" timestamp="1585110027132" />
     <state width="1897" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1056@0.0.1920.1056" timestamp="1584775063547" />
-    <state width="1897" height="345" key="GridCell.Tab.1.center" timestamp="1584775063546">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="221" key="GridCell.Tab.1.center" timestamp="1585110027131">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="221" key="GridCell.Tab.1.center/0.0.1366.744@0.0.1366.744" timestamp="1585110027131" />
     <state width="1897" height="345" key="GridCell.Tab.1.center/0.0.1920.1056@0.0.1920.1056" timestamp="1584775063546" />
-    <state width="1897" height="345" key="GridCell.Tab.1.left" timestamp="1584775063546">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="221" key="GridCell.Tab.1.left" timestamp="1585110027131">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="221" key="GridCell.Tab.1.left/0.0.1366.744@0.0.1366.744" timestamp="1585110027131" />
     <state width="1897" height="345" key="GridCell.Tab.1.left/0.0.1920.1056@0.0.1920.1056" timestamp="1584775063546" />
-    <state width="1897" height="345" key="GridCell.Tab.1.right" timestamp="1584775063546">
-      <screen x="0" y="0" width="1920" height="1056" />
+    <state width="1343" height="221" key="GridCell.Tab.1.right" timestamp="1585110027131">
+      <screen x="0" y="0" width="1366" height="744" />
     </state>
+    <state width="1343" height="221" key="GridCell.Tab.1.right/0.0.1366.744@0.0.1366.744" timestamp="1585110027131" />
     <state width="1897" height="345" key="GridCell.Tab.1.right/0.0.1920.1056@0.0.1920.1056" timestamp="1584775063546" />
+    <state x="379" y="0" width="600" height="744" key="refactoring.ChangeSignatureDialog" timestamp="1585108351655">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="379" y="0" width="600" height="744" key="refactoring.ChangeSignatureDialog/0.0.1366.744@0.0.1366.744" timestamp="1585108351655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestNumberSumAlgorithms.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestNumberSumAlgorithms.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
